@@ -65,8 +65,7 @@ The purpose of this analysis was to predict the credit risk by following 6 diffe
  (1) LogisticRegression
  (2) BalancedRandomForestClassifier
  (3) AdaBoost Classifier
- 
-  The first deliver we use four different sampling methond with Logistic Regression module, the accuracy score 50~65%.
-  The Scecond deliver we use Balanced Random Forest Classifier model, the accuracy achive 95.52% also use the Adaboost classifier model, the result is 91.39%. Although adaboost classifier accuracy is not getting better than Random Forset classifier model. Both Random Forest classifier and Adaboost are over 90% better than Logistic Regression with different sampling ways. 
+    The first deliver we use four different sampling methonds with Logistic Regression module, the accuracy score 50~65%.
+    The Scecond deliver we use Balanced Random Forest Classifier model, the accuracy achive 95.52% also use the Adaboost classifier model,the result is 91.39%. Although adaboost classifier accuracy is not getting better than Random Forset classifier model.Both Random Forest classifier and Adaboost are over 90% better than Logistic Regression with different sampling ways. 
  
  
